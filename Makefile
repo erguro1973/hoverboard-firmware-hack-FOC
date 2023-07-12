@@ -15,7 +15,7 @@ OPT = -Og
 BUILD_DIR = build
 
 ######################################
-# source
+# source c
 ######################################
 # C sources
 C_SOURCES =  \
